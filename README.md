@@ -13,8 +13,6 @@
 - [Hidden Flag -30 mark](#hidden-flag--30-mark)
 - [Boot2root Wargame II Scanning Machine](#boot2root-wargame-ii-scanning-machine)
 - [Boot2root Wargame II Service](#boot2root-wargame-ii-service)
-- [Boot2root Wargame II DATA](#boot2root-wargame-ii-data)
-- [Boot2root Wargame II PDF](#boot2root-wargame-ii-PDF)
 
   
 ## **Crack it! -70 mark**
