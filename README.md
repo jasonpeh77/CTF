@@ -8,7 +8,7 @@
 - [Spam message -10 mark](#spam-message--10-mark)
 - [Image.PNG -10 mark](#imagepng--10-mark)
 - [OWL  -15 mark](#owl--15-mark)
-- [CREATIVITY -30 mark](#CREATIVITY--30-mark)
+- [CREATIVITY -20 mark](#creativity--20-mark)
 - [Hidden Flag -30 mark](#hidden-flag--30-mark)
 - [Boot2root Wargame II Scanning Machine](#boot2root-wargame-ii-scanning-machine)
 - [Boot2root Wargame II Service](#boot2root-wargame-ii-service)
