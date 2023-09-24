@@ -2,7 +2,7 @@
 
 
 * notes
-  -this is Write-Up  for CTF CRAC'23 
+  -this is team Bømbåstïç S¡dë £¥€ Write-Up  for CTF CRAC'23 
 
 ## Table of contents
 - [Crack it! - 70 mark](#crack-it--70-mark)
@@ -11,7 +11,12 @@
 - [OWL  -15 mark](#owl--15-mark)
 - [CREATIVITY -20 mark](#creativity--20-mark)
 - [Hidden Flag -30 mark](#hidden-flag--30-mark)
+- [Boot2root Wargame II Scanning Machine](#boot2root-wargame-ii-scanning-machine)
+- [Boot2root Wargame II Service](#boot2root-wargame-ii-service)
+- [Boot2root Wargame II DATA](#boot2root-wargame-ii-data)
+- [Boot2root Wargame II PDF](#boot2root-wargame-ii-PDF)
 
+  
 ## **Crack it! -70 mark**
 - based on question it need to find the password so we using Strings to find password
 <img width="410" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/3050f89a-00de-404e-8345-49d2875fd65b">
@@ -79,6 +84,34 @@
   -using  [CyberChef Link](https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)&input=WTNSbWMzTjdTR0ZqYXpOa1gyc3pQM3A9)
 
   <img width="366" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/ccbe93a5-f3b4-4bf1-9583-140f988996d1">
+
+## **Boot2root Wargame II Scanning Machine**
+-found ip address for the machine
+-**sudo netdiscover**
+
+<img width="421" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/a9496162-792a-4897-9905-9f26a730bd13">
+
+-based on this question,it want us to find open port of this machine
+-using command:**nmap 192.168.115.134**
+
+<img width="349" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/dc5cc1d3-b857-4042-b9dc-339bdff7ba2c">
+
+-So that have 3 port opened 
+-**flag:ctf{3}**
+
+## **Boot2root Wargame II Service**
+-This question want us to find the service version
+-using command:** nmap -sV 192.168.115.134**
+
+
+<img width="475" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/1dce7bf1-2cfa-43ef-aaf1-d215caebefa9">
+
+-So,Flag :ctf{3.0.3}
+
+## **Boot2root Wargame II DATA**
+-based on this it want 
+
+
 
 
 
