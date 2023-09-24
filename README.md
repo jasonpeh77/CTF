@@ -55,8 +55,12 @@
 
 ## **CREATIVITY -20 mark**
 -Check file type
+
 <img width="156" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/421bf12d-5908-48d9-9588-e75a617075e2">
+  
+  
   -using strings or cat command to display the detail text in file
+  
   <img width="227" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/80c159d5-75fd-4f52-ae69-cfe3eba9c735">
   
 
