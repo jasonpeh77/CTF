@@ -10,8 +10,6 @@
 - [OWL  -15 mark](#owl--15-mark)
 - [CREATIVITY -20 mark](#creativity--20-mark)
 - [Hidden Flag -30 mark](#hidden-flag--30-mark)
-- [Boot2root Wargame II Scanning Machine](#boot2root-wargame-ii-scanning-machine)
-- [Boot2root Wargame II Service](#boot2root-wargame-ii-service)
 
 ## **Crack it! -70 mark**
 - based on question it need to find the password so we using Strings to find password
