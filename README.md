@@ -1,8 +1,10 @@
 # Crac'23 2023
+![image](https://github.com/jasonpeh77/CTF/assets/117582674/03b2e046-8fa3-4316-b534-3fbd57a92a22)
 
 
-* notes
-  -this is team Bømbåstïç S¡dë £¥€ Write-Up  for CTF CRAC'23 
+* Notes
+  -Team:**Bømbåstïç S¡dë £¥€** 
+  -This is  Write-Up  for CTF CRAC'23 
 
 ## Table of contents
 - [Crack it! - 70 mark](#crack-it--70-mark)
