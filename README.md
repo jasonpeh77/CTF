@@ -9,6 +9,7 @@
 - [Image.PNG -10 mark](#imagepng--10-mark)
 - [OWL  -15 mark](#owl--15-mark)
 - [CREATIVITY -30 mark](#CREATIVITY--30-mark)
+- [Hidden Flag -30 mark](#hidden-flag--30-mark)
 - [Boot2root Wargame II Scanning Machine](#boot2root-wargame-ii-scanning-machine)
 - [Boot2root Wargame II Service](#boot2root-wargame-ii-service)
 
@@ -65,6 +66,27 @@
   
 
   -the find have inside the Reverse first column  is CTFSS{4R3UCR3AT1V3DUD3}
+
+## **Hidden Flag -30 mark**
+  -check the file type
+
+  <img width="324" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/2c5a6cdb-e4a9-459e-99df-2fffbb3c9e58">
+
+  -using command cat or string to see the detail in file
+
+  <img width="648" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/db2e16f0-9090-459a-a74b-1514b247e6cb">
+
+  -inside have a hash value**：Y3Rmc3N7SGFjazNkX2szP30=**
+  -using  [CyberChef Link](https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)&input=WTNSbWMzTjdTR0ZqYXpOa1gyc3pQM3A9)
+
+  <img width="366" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/ccbe93a5-f3b4-4bf1-9583-140f988996d1">
+
+
+
+ 
+
+
+  
 
 
 
