@@ -3,8 +3,9 @@
 
 
 * Notes
-  -Team:**Bømbåstïç S¡dë £¥€** 
-  --This is  Write-Up  for CTF CRAC'23 
+  -Team:**Bømbåstïç S¡dë £¥€**
+   
+  -This is  Write-Up  for CTF CRAC'23 
 
 ## Table of contents
 - [Crack it! - 70 mark](#crack-it--70-mark)
