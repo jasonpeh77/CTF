@@ -47,7 +47,8 @@
 -based on this question it need us to find Shutter Speed value be a flag 
   <img width="774" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/f5288db8-ad7b-4525-a136-0e1c68237aa0">
 
-  -So using exiftools to find that value
+  -So using exiftools to find that value ** exiftool -ShutterSpeed Owl.jpg**
+  
   <img width="226" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/b455f1cf-0ebe-4c7e-be21-c0beb2dbf3a7">
 
   -So the flag is **ctf{1/400}**
