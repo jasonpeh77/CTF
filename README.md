@@ -4,12 +4,12 @@
   -this is Write-Up  for CTF CRAC'23 
 
 ## Table of contents
-- [RE-Crack it!] (#**Crack it! -70 mark**)
-- [Steganography Spam Messege] (#S pam messege)
-- [Steganography Image.PNG] (# Image.PNG)
-- [Steganography OWL](# OWL)
-- [Boot2root Wargame II scanning Machine] (# Wargame II Scanning Machine)
-- [Boot2root Wargame II Service] (# Wargame II Service)
+- [Crack it! - 70 mark](#crack-it--70-mark)
+- [Steganography Spam Message](#steganography-spam-message)
+- [Steganography Image.PNG](#steganography-imagepng)
+- [Steganography OWL](#steganography-owl)
+- [Boot2root Wargame II Scanning Machine](#boot2root-wargame-ii-scanning-machine)
+- [Boot2root Wargame II Service](#boot2root-wargame-ii-service)
 
 ## **Crack it! -70 mark**
 
