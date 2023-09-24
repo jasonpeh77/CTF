@@ -16,6 +16,6 @@
 <img width="410" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/3050f89a-00de-404e-8345-49d2875fd65b">
 
 --from here we can saw the password is abc123
-----flag:**ctf{abc123}**
+---flag:**ctf{abc123}**
 
 
