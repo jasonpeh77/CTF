@@ -8,7 +8,7 @@
 - [Spam message -10 mark](#spam-message--10-mark)
 - [Image.PNG -10 mark](#imagepng--10-mark)
 - [OWL  -15 mark](#owl--15-mark)
-- [Hidden Flag -30 mark](#hidden-flag--30-mark)
+- [CREATIVITY -30 mark](#CREATIVITY--30-mark)
 - [Boot2root Wargame II Scanning Machine](#boot2root-wargame-ii-scanning-machine)
 - [Boot2root Wargame II Service](#boot2root-wargame-ii-service)
 
@@ -53,7 +53,14 @@
 
   -So the flag is **ctf{1/400}**
 
-## **Hidden Flag -30 mark**
+## **CREATIVITY -20 mark**
+-Check file type
+<img width="156" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/421bf12d-5908-48d9-9588-e75a617075e2">
+  -using strings or cat command to display the detail text in file
+  <img width="227" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/80c159d5-75fd-4f52-ae69-cfe3eba9c735">
+  
+
+  -the find have inside the Reverse first column  is CTFSS{4R3UCR3AT1V3DUD3}
 
 
 
