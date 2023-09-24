@@ -110,8 +110,7 @@
 
 -So,Flag :ctf{3.0.3}
 
-## **Boot2root Wargame II DATA**
--based on this it want 
+
 
 
 
