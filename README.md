@@ -22,9 +22,9 @@
 ## **Spam-message--10-mark**
 - we saw that given file it show like normal word ,so we using online tools [SpamMimic Decoder](https://www.spammimic.com/decode.shtml)
   <img width="388" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/e221f5cf-18c4-471a-bff1-99ccfd7d08cb">
-  -copy all thing paste in tu tools [SpamMimic Decoder](https://www.spammimic.com/decode.shtml) 
+  --copy all thing paste in tu tools [SpamMimic Decoder](https://www.spammimic.com/decode.shtml) 
   ![image](https://github.com/jasonpeh77/CTF/assets/117582674/8ec58d3f-6769-46ec-bf65-9238c40e1a98)
-  -after decode ,we will get the answer
+  ---after decode ,we will get the answer
   <img width="563" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/1a7c488e-3ac9-430f-92f2-ce642769de4c">
 
 
