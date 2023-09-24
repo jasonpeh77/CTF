@@ -34,9 +34,10 @@
 
 ## **imagepng--10-mark**
 -This is the image in this question 
+
   <img width="575" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/955375e8-1b8d-48af-82e5-be7d910ee4d7">
 
-  --Using command zsteg to found the flag
+  -Using command zsteg to found the flag
 
   <img width="648" alt="image" src="https://github.com/jasonpeh77/CTF/assets/117582674/d0bf4001-8fa5-4d1c-9411-3c15bb4cd138">
 
